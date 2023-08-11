@@ -1,0 +1,2 @@
+# The-Effect-of-Sense-of-Agency-on-Self-Efficacy-Beliefs-A-Virtual-Reality-Paradigm
+Data and Code of: Ala Alsaleh, Moritz Schubert, and Dominik Endres. 2023. The Effect of Sense of Agency on Self-Efficacy Beliefs: A Virtual Reality Paradigm. In ACM Symposium on Applied Perception 2023 (SAP ’23), August 5–6, 2023, Los Angeles, CA, USA. ACM, New York, NY, USA, 12 pages. https://doi.org/10. 1145/3605495.3605795
